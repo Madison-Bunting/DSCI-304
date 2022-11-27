@@ -18,9 +18,11 @@ It appears that lower scores generally tend to have higher attrition rates, whic
 
 We can see that employees who left were more likely to have longer commutes. 
 
-Now let's look at the overall distribution of commute distances, to get a sense of how far most employees live from work.
+Now let's look at the overall distribution of commute distances to get a sense of how far most employees live from work and if that affects the number leaving.
 
-We see most people live within xx miles of the office. Let's see if this differs by age, and if that affects the attrition rate.
+![image](https://user-images.githubusercontent.com/89811204/204156175-1b918c87-f7dc-4534-b7dc-803084edce2f.png)
+
+We see most people live within 10 miles of the office, and it appears more people are leaving that live closer to the office, but it is important to note that this histogram reflects counts of employees who stayed and left, not the attrition rate. Next, let's examine the attrition rate of commute distances by age.
 
 This survival analysis graph suggests that most people who are leaving are younger (under xx age). This makes sense because younger people are earlier in their careers, so they have fewer attachments or loyalty to the company, particularly with Millennials and Generation Z. 
 Additionally, the national [average age at a person's first marriage](https://www.census.gov/content/dam/Census/library/visualizations/time-series/demo/families-and-households/ms-2.pdf) has been increasing for over 20 years and is now around 29 years of age. This means the majority of young people are single, so they also have fewer commitments both to their community and at-home responsibilities, which makes it easier for young people to move to find better opportunities. 

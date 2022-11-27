@@ -7,6 +7,8 @@ The dataset has numerous variables for each of 1470 employees, including demogra
 
 First, we will examine the overall attrition rate in the below waffle chart.
 
+![image](https://user-images.githubusercontent.com/89811204/204155996-3b67e3bd-e5bd-4700-9a64-9f6594e926ad.png)
+
 We observe that 16 out of every 100 employees have left. Companies should generally aim for an [attrition rate of 10% or lower](https://insightglobal.com/blog/employee-attrition-rate-how-to-calculate-improve/). Now, let's think about some reasons employees might be leaving. 
 The data also includes the results of what appears to be a satisfaction survey, with values of 1-4 (1 being the worst, and 5 being the best) for each employee's environmental satisfaction, perception of work-life balance, job satisfaction, and job involvement. The distributions of these survey results and attrition rate are visualized in the animation below.
 

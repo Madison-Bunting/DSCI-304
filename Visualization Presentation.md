@@ -14,7 +14,7 @@ The data also includes the results of what appears to be a satisfaction survey, 
 
 It appears that lower scores generally tend to have higher attrition rates, which is what we would expect since most people would prefer to not hate their workplace. Let's now delve into some potential reasons for those scores. During the return to office following the recovery from the COVID-19 pandemic, there have been numerous [articles discussing the "future of work"](https://doi-org.ezproxy.rice.edu/10.1080/13678868.2022.2047380) that articulate employees preference for at least a hybrid option, due to better work life balance without the commute. With this in mind, let's examine the relationship between work life balance rating and commute distance. 
 
-![image](https://user-images.githubusercontent.com/89811204/204156124-f3789212-6a36-4268-bcba-c0b35518a16d.png)
+![image](https://user-images.githubusercontent.com/89811204/204156701-22b16623-806c-41ee-9127-ace66143bc51.png)
 
 We can see that employees who left were more likely to have longer commutes. 
 

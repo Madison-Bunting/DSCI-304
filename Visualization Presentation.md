@@ -13,7 +13,7 @@ The dataset has 35 variables for each of 1470 employees as detailed below.
   - Employee's history with the company: years at company, years in current role, years since last promotion, years with curr manager, total working years
   - Other: number of companies the employee has worked for, number of hours per week they work, training time over the past year, employee count
 - **Categorical variables**: 
-  - Binary variables: attrition, gender, whether the employee is over 18, whether the employee is eligible for overtime
+  - **Binary variables**: attrition, gender, whether the employee is over 18, whether the employee is eligible for overtime
   - **Nominal variables**: department, education field, job role, marital status
   - **Ordinal variables**: 
     - Job satisfaction (scale of 1 = low, 2 = medium, 3 = high, 4 = very high): environment satisfaction, job involvement, job satisfaction

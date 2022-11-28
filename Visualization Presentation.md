@@ -9,13 +9,13 @@ The dataset has numerous variables for each of 1470 employees, including demogra
 
 This fictional dataset also contains integer variables that correlate with various qualitative responses, as though to a survey with response scales. The key for those numerical values is detailed below:
 
-Education: 1 = below college, 2 = college, 3 = bachelor, 4 = master, 5 = doctor
-Environment/Satisfaction: 1 = low, 2 = medium, 3 = high, 4 = very high
-Job Involvement: 1 = low, 2 = medium, 3 = high, 4 = very high
-Job Satisfaction: 1 = low, 2 = medium, 3 = high, 4 = very high
-Performance Rating: 1 = low, 2 = good, 3 = excellent, 4 = outstanding
-Relationship Satisfaction: 1 = low, 2 = medium, 3 = high, 4 = very high
-Work-Life Balance: 1 = bad, 2 = good, 3 = better, 4 = best 
+- Education: 1 = below college, 2 = college, 3 = bachelor, 4 = master, 5 = doctor
+- Environment/Satisfaction: 1 = low, 2 = medium, 3 = high, 4 = very high
+- Job Involvement: 1 = low, 2 = medium, 3 = high, 4 = very high
+- Job Satisfaction: 1 = low, 2 = medium, 3 = high, 4 = very high
+- Performance Rating: 1 = low, 2 = good, 3 = excellent, 4 = outstanding
+- Relationship Satisfaction: 1 = low, 2 = medium, 3 = high, 4 = very high
+- Work-Life Balance: 1 = bad, 2 = good, 3 = better, 4 = best 
 
 First, we will examine the overall attrition rate in the below waffle chart.
 

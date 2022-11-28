@@ -19,22 +19,22 @@ This fictional dataset also contains integer variables that correlate with vario
 
 First, we will examine the overall attrition rate in the below waffle chart.
 
-![image](https://user-images.githubusercontent.com/89811204/204155996-3b67e3bd-e5bd-4700-9a64-9f6594e926ad.png)
+![image](https://user-images.githubusercontent.com/89811204/204194330-a6120916-4dbe-4a38-9e8f-507470d61a24.png)
 
-We observe that 16 out of every 100 employees have left. Companies should generally aim for an [attrition rate of 10% or lower](https://insightglobal.com/blog/employee-attrition-rate-how-to-calculate-improve/), depending on the industry. This suggests this company potentially has a retention problem. Let's examine some of the reasons employees might be leaving. 
+We observe that 16 out of every 100 employees have left. Companies should generally aim for an [attrition rate of 10% or lower](https://insightglobal.com/blog/employee-attrition-rate-how-to-calculate-improve/), depending on the industry. This suggests this company can work on their retention. Let's examine some of the reasons employees might be leaving. 
 The attrition rates for each of the qualitative responses to some of the "survey questions" are visualized in the animation below.
 
-![animation](https://user-images.githubusercontent.com/89811204/204193571-56d7421b-966f-4ead-9746-3f5ed3aa0ae8.gif)
+![animation](https://user-images.githubusercontent.com/89811204/204196084-f0d071fd-b28e-4184-bc0d-ccd678947726.gif)
 
 It appears that lower scores generally tend to have higher attrition rates, which is what we would expect since most people would prefer to not hate their workplace. Let's now delve into some potential reasons for those scores. During the return to office following the recovery from the COVID-19 pandemic, there have been numerous [articles discussing the "future of work"](https://doi-org.ezproxy.rice.edu/10.1080/13678868.2022.2047380) that articulate employees preference for at least a hybrid option, due to better work life balance without the commute. With this in mind, let's examine the relationship between work life balance rating and commute distance. 
 
-![image](https://user-images.githubusercontent.com/89811204/204156701-22b16623-806c-41ee-9127-ace66143bc51.png)
+![image](https://user-images.githubusercontent.com/89811204/204196172-78625509-cdb1-4bdc-9de8-4fda4f028c6e.png)
 
 We can see that employees who left were more likely to have longer commutes. 
 
 Now let's look at the overall distribution of commute distances to get a sense of how far most employees live from work and if that affects the number leaving.
 
-![image](https://user-images.githubusercontent.com/89811204/204156175-1b918c87-f7dc-4534-b7dc-803084edce2f.png)
+![image](https://user-images.githubusercontent.com/89811204/204196045-62b5a2e2-909e-4ef9-bde9-e01263cd10f2.png)
 
 We see most people live within 10 miles of the office, and it appears more people are leaving that live closer to the office, but it is important to note that this histogram reflects counts of employees who stayed and left, not the attrition rate. Next, let's examine the attrition rate of commute distances by age.
 

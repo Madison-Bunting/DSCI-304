@@ -51,7 +51,9 @@ Additionally, the national [average age at a person's first marriage](https://ww
 
 So far, we know employees that tend to leave at higher rates are younger and have long commutes. Could there be something deeper motivating this company's attrition problem? Let's see if there are any trends of attrition by department.
 
-The whisker plot above demonstrates that although Sales has a slightly higher attrition rate, Human Resources has a much wider range. This is particularly an issue when there are so few members of HR at this company in the first place, as HR plays an essential role in avoiding and managing employee turnover - if they don't want to stay, who else will?
+![image](https://user-images.githubusercontent.com/89811204/204597245-894513e4-174a-4173-958f-acf4c8bd245b.png)
+
+The effect plot above demonstrates that although Sales has a slightly higher attrition rate, Human Resources has a much wider range. This is particularly an issue when there are only 63 few members of HR at this company in the first place, as HR plays an essential role in avoiding and managing employee turnover - if they don't want to stay, who else will?
 
 To wrap up, I will offer a few recommendations to help this company reduce their attrition rate, correlated with the key findings above:
 - Improve employee satisfaction by offering a hybrid working environment, and help make the commute more managable by [providing transportation](https://www.sciencetimes.com/articles/38186/20220613/inside-googles-bus-fleet-a-tour-of-the-companys-transportation-options.htm#:~:text=These%20shuttle%20buses%20are%20equipped,cities%20the%20shuttle%20travels%20through.) or vouchers for ridesharing. This will also allow employees to get work done on the road

@@ -46,7 +46,7 @@ We see most people live within 10 miles of the office, and it appears more peopl
 
 ![image](https://user-images.githubusercontent.com/89811204/204587477-9e2e825d-7194-4596-a75b-c9cfd6831e53.png)
 
-This [survival analysis graph](https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html) suggests that most people who are leaving are younger (under xx age). This makes sense because younger people are earlier in their careers, so they have fewer attachments or loyalty to the company, particularly with Millennials and Generation Z. 
+This [survival analysis graph](https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html) suggests that most people who are leaving are younger. This makes sense because younger people are earlier in their careers, so they have fewer attachments or loyalty to the company, particularly with Millennials and Generation Z. 
 Additionally, the national [average age at a person's first marriage](https://www.census.gov/content/dam/Census/library/visualizations/time-series/demo/families-and-households/ms-2.pdf) has been increasing for over 20 years and is now around 29 years of age. This means the majority of young people are single, so they also have fewer commitments both to their community and at-home responsibilities, which makes it easier for young people to move to find better opportunities. 
 
 So far, we know employees that tend to leave at higher rates are younger and have long commutes. Could there be something deeper motivating this company's attrition problem? Let's see if there are any trends of attrition by department.
